@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue Levers</title>
+    <description>A little corner of the net show it's love of penguins</description>
+    <link>http://bluelevers.co.uk/</link>
+    <atom:link href="http://bluelevers.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 01 Oct 2016 10:13:31 +0100</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2016 10:13:31 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
